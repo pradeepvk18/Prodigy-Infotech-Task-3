@@ -87,12 +87,6 @@ This task helped in understanding:
 
 The project demonstrates how machine learning can assist businesses in predicting customer behavior effectively.
 
----
-
-## 📂 Repository Structure
-
----
-
 ## 📬 Contact
 
 For any inquiries or feedback regarding this project, please contact:
