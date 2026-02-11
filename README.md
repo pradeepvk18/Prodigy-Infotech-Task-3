@@ -90,3 +90,16 @@ The project demonstrates how machine learning can assist businesses in predictin
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 📬 Contact
+
+For any inquiries or feedback regarding this project, please contact:
+
+- LinkedIn: [Pradeep D](https://www.linkedin.com/in/pradeep-d-626384297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+- Email: pradeepkushwahvk18@gmail.com
+
+---
+
+⭐ Thank you for reviewing my submission!
